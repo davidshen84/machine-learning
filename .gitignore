@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
+data/
 
 udacity/notMNIST*
 udacity/text8.zip
-tensorflow/data/
+
